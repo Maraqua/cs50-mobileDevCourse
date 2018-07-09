@@ -3,4 +3,4 @@
 
 # Project0
 ![alt text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TODO-VanillaJS-APP.png)
-![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/TodoVanillaApp.png)
+![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
