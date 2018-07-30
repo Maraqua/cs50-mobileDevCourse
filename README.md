@@ -6,5 +6,5 @@
 ![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
 
 # Project1
-![alt text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png)
-![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png)
+![alt text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png){:class="img-responsive"}
+![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png){:class="img-responsive"}
