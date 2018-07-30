@@ -4,3 +4,7 @@
 # Project0
 ![alt text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TODO-VanillaJS-APP.png)
 ![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
+
+# Project1
+<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="40%"> 
+<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png" width="40%"">
