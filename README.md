@@ -6,12 +6,12 @@
 ![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
 
 # Project1
-<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="500" height="1000" 
+<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" 
 style="display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;">
-<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png" width="500" height="1000" 
+<img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png" 
 style="display: block;
     margin-left: auto;
     margin-right: auto;
