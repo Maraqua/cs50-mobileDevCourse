@@ -6,8 +6,9 @@
 ![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
 
 # Project1 (Pomodoro Timer in React Native) 
-### Demo
-Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)
+### Demo 
+Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)__
+Note: Don't use the userinput fields, they're in working-progress
 
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="40%"> 
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png" width="40%"">
@@ -15,7 +16,6 @@ Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)
 
 ## TODO 
 - [X] Complete Project
-- [ ] Finish Extra Challenges
 - [ ] Finish Implementing the User Input for Work Time
 - [ ] Finish Implementing the User Input for Break Time
 
