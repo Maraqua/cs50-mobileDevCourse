@@ -7,21 +7,21 @@
 
 # Project1 (Pomodoro Timer in React Native) 
 Demo
-Try it out on expo (https://snack.expo.io/@mvrs/pomodoro-timer)
+Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="40%"> 
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1P.png" width="40%"">
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1Z.png" width="40%"">
 
 ## TODO 
-[X] Complete Project
-[] Finish Extra Challenges
-[] Finish Implementing the User Input for Work Time
-[] Finish Implementing the User Input for Break Time
+- [X] Complete Project
+- [ ] Finish Extra Challenges
+- [ ] Finish Implementing the User Input for Work Time
+- [ ] Finish Implementing the User Input for Break Time
 
 # Project2 (Movie Browser) - In Progress...
 
 ## TODO
-[] There should be at least one `StackNavigator`
-[] There should be a search screen that allows users to search for movies
-[] You should show more than 10 results if more than 10 results exist
-[] There should be a screen that shows additional information about a selected movie
+- [ ] There should be at least one `StackNavigator`
+- [ ] There should be a search screen that allows users to search for movies
+- [ ] You should show more than 10 results if more than 10 results exist
+- [ ] There should be a screen that shows additional information about a selected movie
