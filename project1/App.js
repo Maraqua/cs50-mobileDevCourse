@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, StyleSheet, Text, View, TouchableHighlight } from "react-native";
+import { Button, ScrollView, KeyboardAvoidingView, StyleSheet, Text, View, TouchableHighlight } from "react-native";
 import { Constants } from "expo";
 import Timer from "./Timer";
 import NumericForm from "./components/NumericForm/NumericForm";
@@ -13,17 +13,19 @@ const BREAKTIME = 'BRK'
 export default class App extends React.Component {
 
   /* These two functions does nothing Will come back later to finish the Challenge components */
-  workTimer = () => {
-    this.refs.customWorkTimer.startTimer()
-  }
+  // workTimer = () => {
+  //   this.refs.customWorkTimer.startTimer()
+  // }
 
-  breakTimer = () => {
-    Pomodoro.resetTimer()
-  }
+  // breakTimer = () => {
+  //   Pomodoro.resetTimer()
+  // }
+
+
 
   render() {
     return (
-      <View style={styles.container}>
+      <KeyboardAvoidingView behavior="padding" style={styles.container}>
         <Text style={styles.titleText}>-WORK TIME-</Text>
         {/* <Text style={styles.countdown}>25:00</Text> */}
         {/* <Timer style={styles.container} /> */}
@@ -32,7 +34,6 @@ export default class App extends React.Component {
         </View>
         <View>
           <NumericForm
-            ref="customWorkTimer"
             buttonText={WORKTIME}
             placeholder="MM:SS"
             onPress={() => this.workTimer}
@@ -45,7 +46,7 @@ export default class App extends React.Component {
             keyboardType='numeric'
           />
         </View>
-      </View>
+      </KeyboardAvoidingView>
     );
   }
 }

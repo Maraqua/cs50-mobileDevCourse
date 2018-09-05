@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         padding: 10,
         width: 100,
-        height: 40
+        height: 50
         // alignSelf: 'flex-end'
     },
 
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         padding: 10,
         width: 100,
-        height: 40
+        height: 50
     },
 
 
@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         padding: 10,
         width: 100,
-        height: 40,
+        height: 50,
         // alignSelf: 'flex-end'
     },
 
@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
         justifyContent: 'space-between',
         padding: 10,
         width: 100,
-        height: 40,
+        height: 50,
     },
 
 })
