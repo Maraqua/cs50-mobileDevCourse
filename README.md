@@ -6,7 +6,7 @@
 ![alt_text](https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Projec0-screenshots/TodoVanillaApp.png)
 
 # Project1 (Pomodoro Timer in React Native) 
-Demo
+### Demo
 Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)
 
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="40%"> 
