@@ -7,7 +7,7 @@
 
 # Project1 (Pomodoro Timer in React Native) 
 ### Demo 
-Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer)__
+Try it out on my [snack](https://snack.expo.io/@mvrs/pomodoro-timer) <br />
 Note: Don't use the userinput fields, they're in working-progress
 
 <img src="https://github.com/Mvrs/cs50-mobileDevCourse/blob/master/Project1-sceenshots/Project1S.png" width="40%"> 
