@@ -21,6 +21,8 @@ Try it out on [Snack](https://snack.expo.io/@mvrs/pomodoro-timer) <br />
 - [X] Complete Project
 - [ ] Finish Implementing the User Input for Work Time
 - [ ] Finish Implementing the User Input for Break Time
+- [ ] Convert some components to Hooks
+- [ ] Improve some lifecycle methods
 
 # Project2 (Movie Browser) - In Progress...
 
