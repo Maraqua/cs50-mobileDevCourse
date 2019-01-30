@@ -1,4 +1,4 @@
-# cs50-mobileDevCourse
+# cs50-mobileDevCourse (Updating soon)
 :blue_book: All my projects from [CS50's Mobile App Development with React Native course](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native-0)
 
 # Project0 (Vanilla JS TODO-APP)
